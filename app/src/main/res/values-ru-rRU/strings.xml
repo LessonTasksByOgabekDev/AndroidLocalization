@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Андроид Локализатця</string>
+    <string name="lan_english">Англиӣскиӣ</string>
+    <string name="lan_russian">Русскиӣ</string>
+    <string name="lan_uzbek">Узбекскиӣ</string>
+    <string name="shared_preference">Шаред Преференсе</string>
+
+    <plurals name="my_cats">
+        <item quantity="one">У меня %s кот</item>
+        <item quantity="few">У меня %s кота</item>
+        <item quantity="many">У меня %s кошек</item>
+    </plurals>
+
+</resources>
