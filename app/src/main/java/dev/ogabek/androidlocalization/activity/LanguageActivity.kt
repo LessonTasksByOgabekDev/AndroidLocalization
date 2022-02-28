@@ -32,6 +32,9 @@ class LanguageActivity : AppCompatActivity() {
     }
 
     private fun initViews() {
+
+        LocaleManager(this).setLocale(this)
+
         context = this
 
         val btn_english = findViewById<Button>(R.id.btn_english)
